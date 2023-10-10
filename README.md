@@ -30,7 +30,10 @@ Para utilizar o código, siga os passos abaixo:
 
 Certifique-se de ter a biblioteca requests instalada. Caso não a tenha, você pode instalá-la usando pip:
 
-$pip install requests
+```bash
+pip install requests
+
+```
 
 - Substitua a chave da API API_KEY e a cidade desejada na variável cidade de acordo com suas preferências.
 
