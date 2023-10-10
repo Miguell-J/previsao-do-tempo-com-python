@@ -13,6 +13,7 @@ O código possui uma função previsao_tempo que realiza o seguinte:
 - Formata essas informações em um texto e atualiza um rótulo na interface gráfica com esses dados.
 
 ## Interface Gráfica
+<img src="./Captura de tela 2023-10-10 191824.png"/>
 
 A aplicação possui uma janela criada com o tkinter:
 
