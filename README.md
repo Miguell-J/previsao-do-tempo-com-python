@@ -1,7 +1,5 @@
 # Previsão do tempo python
 
-<img src="https://images.app.goo.gl/BBjpsPqAeWgSH6td8"/>
-
 Este é um exemplo de código Python que utiliza a biblioteca requests para fazer uma requisição à API do OpenWeatherMap e a biblioteca tkinter para criar uma interface gráfica simples. A aplicação permite obter a previsão do tempo para a cidade do Rio de Janeiro.
 
 ## Como Funciona
